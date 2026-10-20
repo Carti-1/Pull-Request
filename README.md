@@ -28,3 +28,4 @@ pytest tests/ -v
 7. Converter feedback em testes regressivos; corrigir o código; fazer commit e push na mesma branch.
 8. Obter aprovação, realizar merge e atualizar a main local.
 
+.
